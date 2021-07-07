@@ -1,4 +1,4 @@
-****Travel-Management-System****
+****Travel-Booking-Agency****
 
 **Andrej Anastasovski, 473219002**  
 
